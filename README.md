@@ -1,0 +1,1 @@
+This project aims to develop a Convolutional Neural Network (CNN) model capable of accurately recognizing characters. CNNs are particularly well-suited for image-based tasks due to their ability to extract relevant features directly from input data.
